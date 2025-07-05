@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br />
     <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
       <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
@@ -793,4 +793,64 @@ And if you're hungry for more than just a course and want to understand how we l
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
 
-#
+# -->
+
+
+
+# 📱 3D iPhone Showcase Website
+
+An immersive, high-performance 3D iPhone product landing page built with **React**, **Three.js**, and **GSAP**, bundled using **Vite**. This frontend-only project demonstrates scroll-based animation, real-time 3D rendering, and interactive UI — perfect for showcasing animation and creative coding skills.
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View Live Project](https://your-live-demo-link.com)  
+*(Replace this link with your actual deployed site URL — e.g., Vercel, Netlify, GitHub Pages)*
+
+---
+
+## 🖼️ Screenshots
+
+| Landing Page | Scroll Animation |
+|--------------|------------------|
+| ![Landing](./screenshots/landing.png) | ![Scroll](./screenshots/scroll.gif) |
+
+> 🖼 Tip: Create a `screenshots` folder in your root directory and add PNGs or GIFs to visually demo your project.
+
+---
+
+## 🎯 Features
+
+- 🧱 **Three.js** 3D iPhone model with camera movement
+- 🌀 **GSAP animations** on scroll, trigger, and timelines
+- ⚡ **Vite** for fast build and hot reload
+- 💻 Fully **responsive** layout for all screen sizes
+- 🎨 Clean, modern design with smooth transitions
+- 📦 Lightweight and performance-optimized frontend
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend UI
+- **Three.js** – 3D rendering and camera logic
+- **GSAP** – Animation & scroll timeline triggers
+- **Vite** – Fast bundler & dev environment
+- **CSS / SCSS / Tailwind** – *(whichever styling method you used)*
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/3d-iphone-website.git
+cd 3d-iphone-website
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the development server
+npm run dev
+
