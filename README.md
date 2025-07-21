@@ -37,7 +37,7 @@ Minimal UI. Maximum impact. Designed to highlight the 3D iPhone with style and p
 
 ## 🔗 Try It Out
 
-* 🎥 **Live Preview:** [Watch Demo](https://your-live-demo-link.com)
+* 🎥 **Live Preview:** [Watch Demo](https://3-d-iphone-delta.vercel.app/)
 
 
 ---
@@ -56,6 +56,6 @@ Minimal UI. Maximum impact. Designed to highlight the 3D iPhone with style and p
 ## 💬 Let's Connect
 
 Have feedback, want to collaborate, or just want to geek out about 3D websites?
-Reach out via [LinkedIn](https://www.linkedin.com/in/your-profile/) or shoot a mail at `your.email@example.com`.
+Reach out via [LinkedIn](https://www.linkedin.com/in/ashutosh-sahoo-32067b110/) or shoot a mail at `ashutoshsahoo1985@gmail.com`.
 
 
